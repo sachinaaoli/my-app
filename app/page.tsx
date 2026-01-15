@@ -28,7 +28,7 @@ export default function Portfolio() {
     },
     {
       title: "E-commerce Website",
-      description: "Built a functional e-commerce platform with product listing pages, shopping cart, checkout process, and responsive design for mobile and desktop users.",
+      description: "Built a functional e-commerce platform with product listing pages, shopping cart, checkout process, and responsive design for  desktop users.",
       tech: ["React.js", "Shopping Cart", "Payment Integration"],
       link: "https://github.com/sachinaaoli/E-commerce"
     },
