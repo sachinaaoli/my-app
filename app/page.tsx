@@ -35,14 +35,14 @@ export default function Portfolio() {
     {
       title: "Waste Management System",
       description: "Developed a platform connecting households with waste collectors, featuring customer portal for selling recyclable waste, admin dashboard for driver assignment, and WasteRecord system.",
-      tech: ["React.js", "Admin Dashboard", "Driver Dashboard", "Real-time Tracking"],
+      tech: ["JavaScript", "PHP","MySQL", "Admin Dashboard", "Driver Dashboard", "Real-time Tracking"],
       link: "https://github.com/sachinaaoli/Waste_Management_System"
     }
   ];
 
   const skills = [
-    "HTML/CSS", "JavaScript", "React.js", "C", "C++",  "Java",
-    "MySQL",  "Git", "Responsive Design", "Basic Software Testing"
+    "HTML/CSS", "JavaScript", "React.js", "Next.js", "C", "C++", "C#", "Java",
+    "MySQL",  "Git", "Basic Software Testing"
   ];
 
   return (
