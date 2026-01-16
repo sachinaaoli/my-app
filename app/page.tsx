@@ -388,7 +388,7 @@ export default function Portfolio() {
       </section>
 
       <footer className="py-8 text-center text-gray-400 border-t border-purple-500/20">
-        <p>© 2026 Sachina Oli. Built with Next.js & Tailwind CSS.</p>
+        <p>© 2026 Sachina Oli</p>
       </footer>
     </div>
   );
