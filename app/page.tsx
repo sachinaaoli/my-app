@@ -337,7 +337,7 @@ export default function Portfolio() {
           
           <div className="bg-slate-800/50 backdrop-blur-sm rounded-2xl p-12 border border-purple-500/20">
             <p className="text-xl text-gray-300 mb-12">
-              I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+              I'm always open to discussing new projects, creative ideas or opportunities to be part of your visions.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
